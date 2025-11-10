@@ -110,7 +110,7 @@ export default function App() {
               Crafting stories through light.
             </h1>
             <p className="mt-4 text-lg text-gray-600 font-sans">
-              I’m <strong>Revanth Reddy bro</strong>, a portrait and lifestyle photographer capturing honest moments for brands and people.
+              I’m <strong>Revanth Reddy</strong>, a portrait and lifestyle photographer capturing honest moments for brands and people.
             </p>
             <div className="mt-6 flex items-center gap-3">
               <a className="rounded-full px-5 py-2 bg-black text-white text-sm font-sans" href="#work">
